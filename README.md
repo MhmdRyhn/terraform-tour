@@ -26,7 +26,7 @@ This repository shows code (IaC) about how to create infrustructure maintaining 
 ## Clone the Repository
 Clone the repository and the enter into the repository.
 ```
-https://github.com/MhmdRyhn/terraform_tour.git
+git clone https://github.com/MhmdRyhn/terraform_tour.git
 cd terraform_tour/
 ```
 
